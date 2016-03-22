@@ -23,3 +23,6 @@ tweets.json.gz
 
 # Any slideshows or HTML output created is ignored
 *.html
+
+# Virtual Environment Folder
+venv
