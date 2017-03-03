@@ -1,5 +1,8 @@
 This is a class project of Minying Lu and Chelsea Waida on Twitter Sentiment Analysis
 
+[Final Report](https://github.com/minggLu/Twitter-sentiment-analysis/blob/master/FinalReport.pdf)
+[Final Poster](https://github.com/minggLu/Twitter-sentiment-analysis/blob/master/Poster.pdf)`
+
 ### 4/1 Happy April Fools day :p
 
 **Minying**
